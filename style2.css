@@ -1,0 +1,33 @@
+body{
+    width: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+button{
+    width: 200px;
+    height: 70px;
+    font-size: 18px;
+    color: azure;
+    border: none;
+    border-radius: 20px;
+}
+.button1{
+    background-color: black;
+}
+.button2{
+    background-color: blue;
+}
+.button3{
+    background-color: blueviolet;
+}
+.button4{
+    background-color: brown;
+}
+.button5{
+    background-color: cadetblue;
+}
+.button6{
+    background-color: cornflowerblue;
+}
